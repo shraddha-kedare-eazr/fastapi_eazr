@@ -1,0 +1,41 @@
+{
+    "categories": {
+        "Financial": {
+            "Banking": ["Kotak Bank", "iMobile Pay", "Canara ai1", "HDFC Bank", "SBI YONO", "ICICI Bank", "Axis Mobile", "IDFC FIRST Bank", "YES Bank", "Bank of Baroda", "PNB One", "Union Bank", "Central Bank of India", "Indian Bank", "UCO Bank"],
+            "Payments": ["GPay", "Paytm", "PhonePe", "BHIM", "Amazon Pay", "MobiKwik", "Freecharge", "PayPal", "Samsung Pay", "Airtel Payments Bank", "JioMoney", "Ola Money", "HDFC PayZapp", "ICICI Pockets", "Axis Pay"]
+        },
+        "Social": {
+            "Messaging": ["WhatsApp", "Telegram", "Messenger", "Signal", "Viber", "WeChat", "Line", "Kik", "Skype", "Slack", "Discord", "GroupMe", "Google Chat", "Tango", "Threema"],
+            "Social Media": ["Facebook", "Instagram", "Snapchat", "LinkedIn", "Twitter", "TikTok", "Pinterest", "Reddit", "Tumblr", "Quora", "Clubhouse", "Byte", "Houseparty", "Vero", "MeWe"]
+        },
+        "Entertainment": {
+            "Streaming": ["Netflix", "Hotstar", "Amazon Prime Video", "Hulu", "Disney+", "Apple TV+", "HBO Max", "YouTube", "Twitch", "Peacock", "Vudu", "Sling TV", "Pluto TV", "Crunchyroll", "Funimation"],
+            "Music": ["Spotify", "Apple Music", "SoundCloud", "Pandora", "Amazon Music", "YouTube Music", "Tidal", "Deezer", "Gaana", "JioSaavn", "Wynk Music", "Shazam", "iHeartRadio", "TuneIn Radio", "Audiomack"]
+        },
+        "Productivity": {
+            "Office": ["Microsoft 365 (Office)", "Google Docs", "WPS Office", "Polaris Office", "Zoho Office Suite", "ONLYOFFICE", "LibreOffice", "Quip", "Notion", "Smartsheet", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Apache OpenOffice", "Dropbox Paper"],
+            "Note-taking": ["Evernote", "Google Keep", "OneNote", "Notion", "Simplenote", "Bear", "Zoho Notebook", "GoodNotes", "Microsoft OneNote", "Apple Notes", "Notejoy", "Obsidian", "Standard Notes", "Turtl", "Joplin"],
+            "Task Management": ["Todoist", "Any.do", "Trello", "Asana", "Microsoft To Do", "Google Tasks", "TickTick", "Habitica", "ClickUp", "Remember The Milk", "OmniFocus", "Nozbe", "Workflowy", "Things 3", "Basecamp"]
+        },
+        "Travel": {
+            "Booking": ["Uber", "Lyft", "Ola", "Didi", "Grab", "Gett", "Bolt", "BlaBlaCar", "GoJek", "Careem", "Via", "Curb", "Wingz", "Turo", "Blacklane"],
+            "Navigation": ["Google Maps", "Waze", "MapQuest", "HERE WeGo", "TomTom GO", "Sygic GPS Navigation", "CoPilot GPS", "OsmAnd", "Citymapper", "Moovit", "Scout GPS", "InRoute", "Apple Maps", "MapFactor Navigator", "Maps.me"]
+        },
+        "Health": {
+            "Fitness": ["MyFitnessPal", "Fitbit", "Nike Training Club", "Strava", "Google Fit", "Samsung Health", "Runtastic", "MapMyRun", "JEFIT", "Home Workout", "Seven", "Daily Yoga", "FitOn", "Lose It!", "Freeletics"],
+            "Mental Health": ["Headspace", "Calm", "Moodpath", "Sanvello", "Happify", "Youper", "Insight Timer", "Smiling Mind", "Simple Habit", "Ten Percent Happier", "Breethe", "Wysa", "BetterHelp", "Talkspace", "Shine"]
+        },
+        "Shopping": {
+            "E-commerce": ["Amazon", "eBay", "Flipkart", "Walmart", "Target", "Alibaba", "Snapdeal", "Myntra", "ShopClues", "Paytm Mall", "BigBasket", "Grofers", "Tata CLiQ", "AJIO", "Pepperfry"],
+            "Fashion": ["ASOS", "Zara", "H&M", "Shein", "Forever 21", "Boohoo", "Nordstrom", "Uniqlo", "Macy's", "JCPenney", "Urban Outfitters", "Saks Fifth Avenue", "Net-a-Porter", "SSENSE", "Farfetch"]
+        },
+        "Food & Beverage": {
+            "Delivery": ["Swiggy", "Uber Eats", "Zomato", "DoorDash", "Postmates", "Grubhub", "Seamless", "Deliveroo", "SkipTheDishes", "Glovo", "Foodpanda", "Just Eat", "Talabat", "ChowNow", "EatStreet"],
+            "Grocery": ["BigBasket", "Grofers", "Instacart", "Amazon Fresh", "Walmart Grocery", "Peapod", "Shipt", "FreshDirect", "Ocado", "Kroger", "Safeway", "Coles", "Woolworths", "HelloFresh", "Blue Apron"]
+        },
+        "Education": {
+            "Learning": ["Coursera", "Udemy", "edX", "Khan Academy", "LinkedIn Learning", "Skillshare", "Codecademy", "Pluralsight", "Udacity", "FutureLearn", "Treehouse", "Brilliant", "DataCamp", "MasterClass", "Mimo"],
+            "Language": ["Duolingo", "Babbel", "Rosetta Stone", "Busuu", "Memrise", "HelloTalk", "Tandem", "Pimsleur", "Lingodeer", "Mango Languages", "Rocket Languages", "Clozemaster", "Lingvist", "italki", "Drops"]
+        }
+    }
+}
